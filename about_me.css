@@ -1,0 +1,60 @@
+table, th, td{
+    border: 1px solid;
+    padding: 3px;
+    border-spacing: 3px;
+    table-layout: fixed;
+    width: 100px;
+    text-align: center;
+    
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color:blue
+}
+a:hover{
+    text-decoration: underline;
+    color:hotpink
+}
+.Biology{
+    background-color:palegoldenrod
+}
+.Work{
+    background-color: indianred;
+}
+.Public{
+    background-color: skyblue;
+}
+.Discrete{
+    background-color: mediumspringgreen;
+}
+.Web_Programming{
+    background-color: darkgoldenrod;
+}
+.Institute{
+    background-color: lightsalmon;
+}
+.Lunch{
+    background-color: lawngreen;
+}
+.Work_Out{
+    background-color: yellow;
+}
+.Driving{
+    background-color: limegreen;
+}
+.Dinner{
+    background-color: red;
+}
+img{
+    width:500px;
+    height: auto;
+}
+.center{
+    text-align: center;
+}
+#haiku{
+    font-family: 'Courier New', Courier, monospace ;
+}
