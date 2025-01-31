@@ -13,17 +13,17 @@ table, th, td{
     
 }
 a{
-    color: blue;
+    color: #4FFFB0;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace ;
 }
 a:visited{
-    color:blue;
+    color:#4FFFB0;
     font-family: 'Courier New', Courier, monospace ;
 }
 a:hover{
     text-decoration: underline;
-    color:hotpink;
+    color:#4FFFB0;
     font-family: 'Courier New', Courier, monospace ;
 }
 .Biology{
