@@ -13,17 +13,17 @@ table, th, td{
     
 }
 a{
-    color: #00FF00;
+    color: #006400;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace ;
 }
 a:visited{
-    color:#00FF00;
+    color:#006400;
     font-family: 'Courier New', Courier, monospace ;
 }
 a:hover{
     text-decoration: underline;
-    color:#00FF00;
+    color:#006400;
     font-family: 'Courier New', Courier, monospace ;
 }
 .Biology{
@@ -70,7 +70,6 @@ img{
     width:500px;
     height: auto;
     float: right;
-    padding:10px;
 }
 .center{
     text-align: center;
