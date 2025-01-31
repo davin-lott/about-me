@@ -69,6 +69,7 @@ a:hover{
 img{
     width:500px;
     height: auto;
+    float: right;
 }
 .center{
     text-align: center;
@@ -87,4 +88,7 @@ em{
 }
 h1, h2{
     font-family: 'Courier New', Courier, monospace ;
+}
+h1{
+    font-size:x-large;
 }
