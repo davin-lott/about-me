@@ -10,43 +10,56 @@ table, th, td{
 a{
     color: blue;
     text-decoration: none;
+    font-family: 'Courier New', Courier, monospace ;
 }
 a:visited{
-    color:blue
+    color:blue;
+    font-family: 'Courier New', Courier, monospace ;
 }
 a:hover{
     text-decoration: underline;
-    color:hotpink
+    color:hotpink;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Biology{
-    background-color:palegoldenrod
+    background-color:palegoldenrod;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Work{
     background-color: indianred;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Public{
     background-color: skyblue;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Discrete{
     background-color: mediumspringgreen;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Web_Programming{
     background-color: darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Institute{
     background-color: lightsalmon;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Lunch{
     background-color: lawngreen;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Work_Out{
     background-color: yellow;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Driving{
     background-color: limegreen;
+    font-family: 'Courier New', Courier, monospace ;
 }
 .Dinner{
     background-color: red;
+    font-family: 'Courier New', Courier, monospace ;
 }
 img{
     width:500px;
