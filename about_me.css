@@ -94,4 +94,6 @@ h1{
 }
 .background{
     background-color: white;
+    width: 75%;
+    box-align: center;
 }
