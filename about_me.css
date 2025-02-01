@@ -12,27 +12,31 @@ table, th, td{
     font-family: 'Courier New', Courier, monospace ;
     
 }
+table{
+    width:800px;
+}
 a{
-    color: #006400;
+    color: blue;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace ;
 }
 a:visited{
-    color:#006400;
+    color:blue;
     font-family: 'Courier New', Courier, monospace ;
 }
 a:hover{
     text-decoration: underline;
-    color:#006400;
+    color:blue;
     font-family: 'Courier New', Courier, monospace ;
 }
 .Biology{
-    background-color:palegoldenrod;
+    background-color:#F9629F;
     font-family: 'Courier New', Courier, monospace ;
 }
 .Work{
-    background-color: indianred;
+    background-color: #1E2952;
     font-family: 'Courier New', Courier, monospace ;
+    color: white;
 }
 .Public{
     background-color: skyblue;
@@ -43,15 +47,15 @@ a:hover{
     font-family: 'Courier New', Courier, monospace ;
 }
 .Web_Programming{
-    background-color: darkgoldenrod;
+    background-color: #DDA0DD;
     font-family: 'Courier New', Courier, monospace ;
 }
 .Institute{
-    background-color: lightsalmon;
+    background-color: #50C878;
     font-family: 'Courier New', Courier, monospace ;
 }
-.Lunch{
-    background-color: lawngreen;
+.Lunch, .Dinner{
+    background-color: #E34234;
     font-family: 'Courier New', Courier, monospace ;
 }
 .Work_Out{
@@ -59,20 +63,31 @@ a:hover{
     font-family: 'Courier New', Courier, monospace ;
 }
 .Driving{
-    background-color: limegreen;
-    font-family: 'Courier New', Courier, monospace ;
-}
-.Dinner{
-    background-color: red;
+    background-color: #39FF14;
     font-family: 'Courier New', Courier, monospace ;
 }
 img{
     width:500px;
     height: auto;
     float: right;
+    border:solid 5px white;
+    box-shadow: 0 0 5px black;
+    
+}
+#haiku{
+    display: inline-block;
+    padding: 10px;
+    border: 10px;
+    background-image: url("ripped.jpg");
+    background-color: #cccccccc;
+    z-index: -1;
+    background-position: center;
+    background-size:340px auto ;
+    
 }
 .center{
     text-align: center;
+    box-align: auto auto;
 }
 p{
     font-family: 'Courier New', Courier, monospace ;
@@ -90,10 +105,15 @@ h1, h2{
     font-family: 'Courier New', Courier, monospace ;
 }
 h1{
-    font-size:x-large;
+    font-size:35px;
+    text-align: center;
 }
 .background{
     background-color: white;
     width: 75%;
-    box-align: center;
+    margin:auto auto;
+    padding: 5px;
+}
+#HaikuPara{
+    width:310px;
 }
